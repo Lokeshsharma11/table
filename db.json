@@ -34,7 +34,7 @@
       {"logid": "10", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "10"},
       {"logid": "11", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "11"},
       {"logid": "12", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "12"}
-    ]
+    ],
   
     "feedinformation": [
     { "feedid": 1, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"01", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
