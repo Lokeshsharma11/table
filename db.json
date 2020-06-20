@@ -20,4 +20,17 @@
     { "userid": 5, "accounttimestamp": "27 Apr 2017 3:23:55", "email":"Hayden@althea.biz", "username":"Hayden", "password":"773", "specialties":"singing", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
     { "userid": 6, "accounttimestamp": "28 Apr 2017 4:56:35", "email":"Ravi@gmail.com", "username":"Ravi", "password":"648", "specialties":"writing", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"}
   ]
+  "logins": [
+      {"logid": "01", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "01"},
+      {"logid": "02", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "02"},
+      {"logid": "03", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "03"},
+      {"logid": "04", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "04"},
+      {"logid": "05", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "05"},
+      {"logid": "06", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "06"},
+      {"logid": "07", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "07"},
+      {"logid": "08", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "08"},
+      {"logid": "09", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "09"},
+      {"logid": "10", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "10"},
+      {"logid": "11", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "11"},
+      {"logid": "12", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "12"}
 }
