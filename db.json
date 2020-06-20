@@ -20,7 +20,7 @@
     { "userid": 5, "accounttimestamp": "27 Apr 2017 3:23:55", "email":"Hayden@althea.biz", "username":"Hayden", "password":"773", "specialties":"singing", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
     { "userid": 6, "accounttimestamp": "28 Apr 2017 4:56:35", "email":"Ravi@gmail.com", "username":"Ravi", "password":"648", "specialties":"writing", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"}
   ]
-},
+}
 {
     "logins": [
       {"logid": "01", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "01"},
