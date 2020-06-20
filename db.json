@@ -34,22 +34,5 @@
       {"logid": "10", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "10"},
       {"logid": "11", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "11"},
       {"logid": "12", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "12"}
-    ],
-  
-    "feedinformation": [
-    { "feedid": 1, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"01", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 2, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"02", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 3, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"03", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 4, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"04", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 5, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"05", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 6, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"06", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 7, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"07", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 8, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"08", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 9, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"09", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 10, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"10", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 11, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"11", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 12, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"12", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 13, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"13", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"},
-    { "feedid": 13, "enabledisable":"enable", "creator": "admin" , "timestampcreation": "23 Apr 2017 8:42:35", "feedname":"Eliseo", "pubmedterms":"gaming", "description":"no-timestamp", "specialtyID":"14", "topic":"Coding", "rssurl":"enable", "papersperweek":"123", "avepercentagerightswipes":"fake"}
-  ]
+    ]
 }
