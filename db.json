@@ -19,5 +19,18 @@
     { "userid": 4, "accounttimestamp": "26 Apr 2017 1:12:30", "email":"Lew@alysha.tv", "username":"Lew", "password":"657", "specialties":"sleeping", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
     { "userid": 5, "accounttimestamp": "27 Apr 2017 3:23:55", "email":"Hayden@althea.biz", "username":"Hayden", "password":"773", "specialties":"singing", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
     { "userid": 6, "accounttimestamp": "28 Apr 2017 4:56:35", "email":"Ravi@gmail.com", "username":"Ravi", "password":"648", "specialties":"writing", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"}
+  ], 
+  "specialty": [
+  { "swipetracker": 01, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": 02, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": 03, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": 04, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": 05, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": 06, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": 07, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"3", "rightswipedpercent":"50%"},
+  { "swipetracker": 08, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"6", "rightswipedpercent":"50%"},
+  { "swipetracker": 09, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"8", "rightswipedpercent":"50%"},
+  { "swipetracker": 10, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"9", "rightswipedpercent":"50%"},
+  { "swipetracker": 11, "feedid": 01, "userid": 01, "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"11", "rightswipedpercent":"50%"}
   ]
 }
