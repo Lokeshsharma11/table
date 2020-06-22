@@ -21,16 +21,16 @@
     { "userid": 6, "accounttimestamp": "28 Apr 2017 4:56:35", "email":"Ravi@gmail.com", "username":"Ravi", "password":"648", "specialties":"writing", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"}
   ], 
   "specialty": [
-  { "swipetracker": 1, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": 2, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": 3, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": 4, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": 5, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": 6, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": 7, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"3", "rightswipedpercent":"50%"},
-  { "swipetracker": 8, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"6", "rightswipedpercent":"50%"},
-  { "swipetracker": 9, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"8", "rightswipedpercent":"50%"},
-  { "swipetracker": 0, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"9", "rightswipedpercent":"50%"},
-  { "swipetracker": 1, "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"11", "rightswipedpercent":"50%"}
+  { "swipetracker": "1", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": "2", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": "3", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": "4", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": "5", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": "6", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
+  { "swipetracker": "7", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"3", "rightswipedpercent":"50%"},
+  { "swipetracker": "8", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"6", "rightswipedpercent":"50%"},
+  { "swipetracker": "9", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"8", "rightswipedpercent":"50%"},
+  { "swipetracker": "10", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"9", "rightswipedpercent":"50%"},
+  { "swipetracker": "11", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"11", "rightswipedpercent":"50%"}
   ]
 }
