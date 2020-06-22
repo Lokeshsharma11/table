@@ -20,7 +20,7 @@
     { "userid": 5, "accounttimestamp": "27 Apr 2017 3:23:55", "email":"Hayden@althea.biz", "username":"Hayden", "password":"773", "specialties":"singing", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
     { "userid": 6, "accounttimestamp": "28 Apr 2017 4:56:35", "email":"Ravi@gmail.com", "username":"Ravi", "password":"648", "specialties":"writing", "feeds":"good", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"}
   ], 
-  "specialty": [
+  "swipetracker": [
   { "swipetracker": "1", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
   { "swipetracker": "2", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
   { "swipetracker": "3", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
