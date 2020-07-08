@@ -12,5 +12,19 @@
       {"logid": "10", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "10"},
       {"logid": "11", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "11"},
       {"logid": "12", "logtype":"Eliseo@gardner.biz", "logtime": "23 Apr 2017 8:42:35", "userid": "12"}
+    ],
+    "specialty": [
+      {"specialtyid": "01", "specialty":"coding", "topic": "Code", "totaluser": "10", "totalfeed": "20", "totaladminfeed": "10", "totaluserfeed": "30"},
+      {"specialtyid": "02", "specialty":"gaming", "topic": "Games", "totaluser": "20", "totalfeed": "30", "totaladminfeed": "30", "totaluserfeed": "40"},
+      {"specialtyid": "03", "specialty":"studying", "topic": "Study", "totaluser": "30", "totalfeed": "10", "totaladminfeed": "20", "totaluserfeed": "10"},
+      {"specialtyid": "04", "specialty":"Cycling", "topic": "Cycle", "totaluser": "40", "totalfeed": "22", "totaladminfeed": "30", "totaluserfeed": "20"},
+      {"specialtyid": "05", "specialty":"coding", "topic": "Code", "totaluser": "10", "totalfeed": "20", "totaladminfeed": "10", "totaluserfeed": "30"},
+      {"specialtyid": "06", "specialty":"gaming", "topic": "Games", "totaluser": "20", "totalfeed": "30", "totaladminfeed": "30", "totaluserfeed": "40"},
+      {"specialtyid": "07", "specialty":"studying", "topic": "Study", "totaluser": "30", "totalfeed": "10", "totaladminfeed": "20", "totaluserfeed": "10"},
+      {"specialtyid": "08", "specialty":"Cycling", "topic": "Cycle", "totaluser": "40", "totalfeed": "22", "totaladminfeed": "30", "totaluserfeed": "20"},
+      {"specialtyid": "09", "specialty":"coding", "topic": "Code", "totaluser": "10", "totalfeed": "20", "totaladminfeed": "10", "totaluserfeed": "30"},
+      {"specialtyid": "10", "specialty":"gaming", "topic": "Games", "totaluser": "20", "totalfeed": "30", "totaladminfeed": "30", "totaluserfeed": "40"},
+      {"specialtyid": "11", "specialty":"studying", "topic": "Study", "totaluser": "30", "totalfeed": "10", "totaladminfeed": "20", "totaluserfeed": "10"},
+      {"specialtyid": "12", "specialty":"Cycling", "topic": "Cycle", "totaluser": "40", "totalfeed": "22", "totaladminfeed": "30", "totaluserfeed": "20"}
     ]
   }
