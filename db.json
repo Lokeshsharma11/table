@@ -191,18 +191,6 @@
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
-        },
-        {
-            "userid": 17,
-            "accounttimestamp": "26 Apr 2017 1:12:30",
-            "email": "Lew@alysha.tv",
-            "username": "Lew",
-            "password": "657",
-            "specialties": "Nephrology",
-            "feeds": "Randomized controlled trial",
-            "blocked": "no",
-            "blockedreason": "fake",
-            "blockedtimestamp": "no-timestamp"
         }
     ],
     "swipetracker": [
