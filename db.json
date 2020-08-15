@@ -1,36 +1,306 @@
 {
-  "useraccount": [
-    { "userid": 1, "accounttimestamp": "23 Apr 2017 8:42:35", "email":"Eliseo@gardner.biz", "username":"Eliseo", "password":"123", "specialties":"Cardiology", "feeds":"Syncope - Guidelinesss", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 2, "accounttimestamp": "24 Apr 2017 10:42:00", "email":"Jayne_Kuhic@sydney.com", "username":"Jayne", "password":"456", "specialties":"Endocrionology", "feeds":"Arrhythmias - RCTs", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 3, "accounttimestamp": "25 Apr 2017 12:34:05", "email":"Nikita@garfield.biz", "username":"Nikita", "password":"789", "specialties":"Nephrology", "feeds":"Coronary Artery Disease", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 4, "accounttimestamp": "26 Apr 2017 1:12:30", "email":"Lew@alysha.tv", "username":"Lew", "password":"657", "specialties":"Urology", "feeds":"Randomized controlled trial", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 5, "accounttimestamp": "27 Apr 2017 3:23:55", "email":"Hayden@althea.biz", "username":"Hayden", "password":"773", "specialties":"Gastroenterology", "feeds":"Nephrolithiasis, Kidney Stones", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 6, "accounttimestamp": "28 Apr 2017 4:56:35", "email":"Ravi@gmail.com", "username":"Ravi", "password":"648", "specialties":"Internal Medicine", "feeds":"Kidney Stones", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 7, "accounttimestamp": "29 Apr 2017 5:30:15", "email":"Raghav@yahoo.in", "username":"Raghav", "password":"45668", "specialties":"Endocrionology", "feeds":"Syncope - Guidelinesss", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 8, "accounttimestamp": "23 Apr 2017 8:42:35", "email":"Eliseo@gardner.biz", "username":"Eliseo", "password":"123", "specialties":"Urology", "feeds":"Coronary Artery Disease", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 9, "accounttimestamp": "24 Apr 2017 10:42:00", "email":"Jayne_Kuhic@sydney.com", "username":"Jayne", "password":"456", "specialties":"Cardiology", "feeds":"Kidney Stones", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 10, "accounttimestamp": "25 Apr 2017 12:34:05", "email":"Nikita@garfield.biz", "username":"Nikita", "password":"789", "specialties":"Nephrology", "feeds":"Arrhythmias - RCTs", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 11, "accounttimestamp": "26 Apr 2017 1:12:30", "email":"Lew@alysha.tv", "username":"Lew", "password":"657", "specialties":"Gastroenterology", "feeds":"Nephrolithiasis, Kidney Stones", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 12, "accounttimestamp": "27 Apr 2017 3:23:55", "email":"Hayden@althea.biz", "username":"Hayden", "password":"773", "specialties":"Internal Medicine", "feeds":"Randomized controlled trial", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 13, "accounttimestamp": "28 Apr 2017 4:56:35", "email":"Ravi@gmail.com", "username":"Ravi", "password":"648", "specialties":"Endocrionology", "feeds":"Syncope - Guidelinesss", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 14, "accounttimestamp": "23 Apr 2017 8:42:35", "email":"Eliseo@gardner.biz", "username":"Eliseo", "password":"123", "specialties":"Gastroenterology", "feeds":"Coronary Artery Disease", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 15, "accounttimestamp": "24 Apr 2017 10:42:00", "email":"Jayne_Kuhic@sydney.com", "username":"Jayne", "password":"456", "specialties":"Cardiology", "feeds":"Arrhythmias - RCTs", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 16, "accounttimestamp": "25 Apr 2017 12:34:05", "email":"Nikita@garfield.biz", "username":"Nikita", "password":"789", "specialties":"Internal Medicine", "feeds":"Nephrolithiasis, Kidney Stones", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 17, "accounttimestamp": "26 Apr 2017 1:12:30", "email":"Lew@alysha.tv", "username":"Lew", "password":"657", "specialties":"Nephrology", "feeds":"Randomized controlled trial", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 18, "accounttimestamp": "27 Apr 2017 3:23:55", "email":"Hayden@althea.biz", "username":"Hayden", "password":"773", "specialties":"Gastroenterology", "feeds":"Syncope - Guidelinesss", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"},
-    { "userid": 19, "accounttimestamp": "28 Apr 2017 4:56:35", "email":"Ravi@gmail.com", "username":"Ravi", "password":"648", "specialties":"Endocrionology", "feeds":"Coronary Artery Disease", "blocked":"no", "blockedreason":"fake", "blockedtimestamp":"no-timestamp"}
-  ], 
-  "swipetracker": [
-  { "swipetracker": "1", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": "2", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": "3", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": "4", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": "5", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": "6", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"2", "rightswipedpercent":"50%"},
-  { "swipetracker": "7", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"3", "rightswipedpercent":"50%"},
-  { "swipetracker": "8", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"6", "rightswipedpercent":"50%"},
-  { "swipetracker": "9", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"8", "rightswipedpercent":"50%"},
-  { "swipetracker": "10", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"9", "rightswipedpercent":"50%"},
-  { "swipetracker": "11", "feedid": "01", "userid": "01", "rightswipedpmid":"123", "leftswipedpmid":"11", "markedasreadpmids":"11", "queuepmids":"11", "rightswipedpercent":"50%"}
-  ]
+    "useraccount": [
+        {
+            "userid": 1,
+            "accounttimestamp": "23 Apr 2017 8:42:35",
+            "email": "Eliseo@gardner.biz",
+            "username": "Eliseo",
+            "password": "123",
+            "specialties": "Cardiology",
+            "feeds": "Syncope - Guidelinesss",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 2,
+            "accounttimestamp": "24 Apr 2017 10:42:00",
+            "email": "Jayne_Kuhic@sydney.com",
+            "username": "Jayne",
+            "password": "456",
+            "specialties": "Endocrionology",
+            "feeds": "Arrhythmias - RCTs",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 3,
+            "accounttimestamp": "25 Apr 2017 12:34:05",
+            "email": "Nikita@garfield.biz",
+            "username": "Nikita",
+            "password": "789",
+            "specialties": "Nephrology",
+            "feeds": "Coronary Artery Disease",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 4,
+            "accounttimestamp": "26 Apr 2017 1:12:30",
+            "email": "Lew@alysha.tv",
+            "username": "Lew",
+            "password": "657",
+            "specialties": "Urology",
+            "feeds": "Randomized controlled trial",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 5,
+            "accounttimestamp": "27 Apr 2017 3:23:55",
+            "email": "Hayden@althea.biz",
+            "username": "Hayden",
+            "password": "773",
+            "specialties": "Gastroenterology",
+            "feeds": "Nephrolithiasis, Kidney Stones",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 6,
+            "accounttimestamp": "28 Apr 2017 4:56:35",
+            "email": "Ravi@gmail.com",
+            "username": "Ravi",
+            "password": "648",
+            "specialties": "Internal Medicine",
+            "feeds": "Kidney Stones",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 7,
+            "accounttimestamp": "29 Apr 2017 5:30:15",
+            "email": "Raghav@yahoo.in",
+            "username": "Raghav",
+            "password": "45668",
+            "specialties": "Endocrionology",
+            "feeds": "Syncope - Guidelinesss",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 8,
+            "accounttimestamp": "23 Apr 2017 8:42:35",
+            "email": "Eliseo@gardner.biz",
+            "username": "Eliseo",
+            "password": "123",
+            "specialties": "Urology",
+            "feeds": "Coronary Artery Disease",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 9,
+            "accounttimestamp": "24 Apr 2017 10:42:00",
+            "email": "Jayne_Kuhic@sydney.com",
+            "username": "Jayne",
+            "password": "456",
+            "specialties": "Cardiology",
+            "feeds": "Kidney Stones",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 10,
+            "accounttimestamp": "25 Apr 2017 12:34:05",
+            "email": "Nikita@garfield.biz",
+            "username": "Nikita",
+            "password": "789",
+            "specialties": "Nephrology",
+            "feeds": "Arrhythmias - RCTs",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 11,
+            "accounttimestamp": "26 Apr 2017 1:12:30",
+            "email": "Lew@alysha.tv",
+            "username": "Lew",
+            "password": "657",
+            "specialties": "Gastroenterology",
+            "feeds": "Nephrolithiasis, Kidney Stones",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 12,
+            "accounttimestamp": "27 Apr 2017 3:23:55",
+            "email": "Hayden@althea.biz",
+            "username": "Hayden",
+            "password": "773",
+            "specialties": "Internal Medicine",
+            "feeds": "Randomized controlled trial",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 13,
+            "accounttimestamp": "28 Apr 2017 4:56:35",
+            "email": "Ravi@gmail.com",
+            "username": "Ravi",
+            "password": "648",
+            "specialties": "Endocrionology",
+            "feeds": "Syncope - Guidelinesss",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 14,
+            "accounttimestamp": "23 Apr 2017 8:42:35",
+            "email": "Eliseo@gardner.biz",
+            "username": "Eliseo",
+            "password": "123",
+            "specialties": "Gastroenterology",
+            "feeds": "Coronary Artery Disease",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 15,
+            "accounttimestamp": "24 Apr 2017 10:42:00",
+            "email": "Jayne_Kuhic@sydney.com",
+            "username": "Jayne",
+            "password": "456",
+            "specialties": "Cardiology",
+            "feeds": "Arrhythmias - RCTs",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 16,
+            "accounttimestamp": "25 Apr 2017 12:34:05",
+            "email": "Nikita@garfield.biz",
+            "username": "Nikita",
+            "password": "789",
+            "specialties": "Internal Medicine",
+            "feeds": "Nephrolithiasis, Kidney Stones",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        },
+        {
+            "userid": 17,
+            "accounttimestamp": "26 Apr 2017 1:12:30",
+            "email": "Lew@alysha.tv",
+            "username": "Lew",
+            "password": "657",
+            "specialties": "Nephrology",
+            "feeds": "Randomized controlled trial",
+            "blocked": "no",
+            "blockedreason": "fake",
+            "blockedtimestamp": "no-timestamp"
+        }
+    ],
+    "swipetracker": [
+        {
+            "userid": "01",
+            "feedid": "01",
+            "rightswipedpmid": "31859919 32132346",
+            "leftswipedpmid": "32384427 32294740",
+            "markedasreadpmids": "31859919",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "02",
+            "feedid": "02",
+            "rightswipedpmid": "32384427 32294740",
+            "leftswipedpmid": "31859919 32132346",
+            "markedasreadpmids": "32384427",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "03",
+            "feedid": "03",
+            "rightswipedpmid": "31826279 32118714",
+            "leftswipedpmid": "31834639 32151750",
+            "markedasreadpmids": "31826279",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "04",
+            "feedid": "04",
+            "rightswipedpmid": "31834639 32151750",
+            "leftswipedpmid": "31826279 32118714",
+            "markedasreadpmids": "32294740",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "05",
+            "feedid": "05",
+            "rightswipedpmid": "32118714 31859919",
+            "leftswipedpmid": "32209833 31821912",
+            "markedasreadpmids": "32384427",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "06",
+            "feedid": "06",
+            "rightswipedpmid": "32151750 32209833",
+            "leftswipedpmid": "31834639 31821912",
+            "markedasreadpmids": "32132346",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "07",
+            "feedid": "07",
+            "rightswipedpmid": "32209833 31821912",
+            "leftswipedpmid": "32151750 32118714",
+            "markedasreadpmids": "31834639",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "08",
+            "feedid": "08",
+            "rightswipedpmid": "31821912 32151750",
+            "leftswipedpmid": "32118714 32209833",
+            "markedasreadpmids": "32294740",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "09",
+            "feedid": "09",
+            "rightswipedpmid": "31834639",
+            "leftswipedpmid": "31821912",
+            "markedasreadpmids": "32132346",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "10",
+            "feedid": "10",
+            "rightswipedpmid": "32118714",
+            "leftswipedpmid": "31834639",
+            "markedasreadpmids": "31859919",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "11",
+            "feedid": "11",
+            "rightswipedpmid": "32151750",
+            "leftswipedpmid": "3211871",
+            "markedasreadpmids": "32209833",
+            "rightswipedpercent": "50%"
+        },
+        {
+            "userid": "12",
+            "feedid": "12",
+            "rightswipedpmid": "32209833",
+            "leftswipedpmid": "32151750",
+            "markedasreadpmids": "31834639",
+            "rightswipedpercent": "50%"
+        }
+    ]
 }
