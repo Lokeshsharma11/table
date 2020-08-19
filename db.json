@@ -7,7 +7,7 @@
             "username": "Eliseo",
             "password": "123",
             "specialties": "Cardiology",
-            "feeds": "Syncope - Guidelinesss",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -19,7 +19,7 @@
             "username": "Jayne",
             "password": "456",
             "specialties": "Endocrionology",
-            "feeds": "Arrhythmias - RCTs",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -31,7 +31,7 @@
             "username": "Nikita",
             "password": "789",
             "specialties": "Nephrology",
-            "feeds": "Coronary Artery Disease",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -43,7 +43,7 @@
             "username": "Lew",
             "password": "657",
             "specialties": "Urology",
-            "feeds": "Randomized controlled trial",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -55,7 +55,7 @@
             "username": "Hayden",
             "password": "773",
             "specialties": "Gastroenterology",
-            "feeds": "Nephrolithiasis, Kidney Stones",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -67,7 +67,7 @@
             "username": "Ravi",
             "password": "648",
             "specialties": "Internal Medicine",
-            "feeds": "Kidney Stones",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -79,7 +79,7 @@
             "username": "Raghav",
             "password": "45668",
             "specialties": "Endocrionology",
-            "feeds": "Syncope - Guidelinesss",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -91,7 +91,7 @@
             "username": "Eliseo",
             "password": "123",
             "specialties": "Urology",
-            "feeds": "Coronary Artery Disease",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -103,7 +103,7 @@
             "username": "Jayne",
             "password": "456",
             "specialties": "Cardiology",
-            "feeds": "Kidney Stones",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -115,7 +115,7 @@
             "username": "Nikita",
             "password": "789",
             "specialties": "Nephrology",
-            "feeds": "Arrhythmias - RCTs",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -127,7 +127,7 @@
             "username": "Lew",
             "password": "657",
             "specialties": "Gastroenterology",
-            "feeds": "Nephrolithiasis, Kidney Stones",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -139,7 +139,7 @@
             "username": "Hayden",
             "password": "773",
             "specialties": "Internal Medicine",
-            "feeds": "Randomized controlled trial",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -151,7 +151,7 @@
             "username": "Ravi",
             "password": "648",
             "specialties": "Endocrionology",
-            "feeds": "Syncope - Guidelinesss",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -163,7 +163,7 @@
             "username": "Eliseo",
             "password": "123",
             "specialties": "Gastroenterology",
-            "feeds": "Coronary Artery Disease",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -175,7 +175,7 @@
             "username": "Jayne",
             "password": "456",
             "specialties": "Cardiology",
-            "feeds": "Arrhythmias - RCTs",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -187,7 +187,7 @@
             "username": "Nikita",
             "password": "789",
             "specialties": "Internal Medicine",
-            "feeds": "Nephrolithiasis, Kidney Stones",
+            "feeds": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
