@@ -5,9 +5,9 @@
             "accounttimestamp": "23 Apr 2017 8:42:35",
             "email": "Eliseo@gardner.biz",
             "username": "Eliseo",
-            "password": "123",
+            "feedid": "01",
             "specialties": "Cardiology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -17,9 +17,9 @@
             "accounttimestamp": "24 Apr 2017 10:42:00",
             "email": "Jayne_Kuhic@sydney.com",
             "username": "Jayne",
-            "password": "456",
+            "feedid": "02",
             "specialties": "Endocrionology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -29,9 +29,9 @@
             "accounttimestamp": "25 Apr 2017 12:34:05",
             "email": "Nikita@garfield.biz",
             "username": "Nikita",
-            "password": "789",
+            "feedid": "03",
             "specialties": "Nephrology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -41,9 +41,9 @@
             "accounttimestamp": "26 Apr 2017 1:12:30",
             "email": "Lew@alysha.tv",
             "username": "Lew",
-            "password": "657",
+            "feedid": "04",
             "specialties": "Urology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -53,9 +53,9 @@
             "accounttimestamp": "27 Apr 2017 3:23:55",
             "email": "Hayden@althea.biz",
             "username": "Hayden",
-            "password": "773",
+            "feedid": "05",
             "specialties": "Gastroenterology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -65,9 +65,9 @@
             "accounttimestamp": "28 Apr 2017 4:56:35",
             "email": "Ravi@gmail.com",
             "username": "Ravi",
-            "password": "648",
+            "feedid": "06",
             "specialties": "Internal Medicine",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -77,9 +77,9 @@
             "accounttimestamp": "29 Apr 2017 5:30:15",
             "email": "Raghav@yahoo.in",
             "username": "Raghav",
-            "password": "45668",
+            "feedid": "07",
             "specialties": "Endocrionology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -89,9 +89,9 @@
             "accounttimestamp": "23 Apr 2017 8:42:35",
             "email": "Eliseo@gardner.biz",
             "username": "Eliseo",
-            "password": "123",
+            "feedid": "08",
             "specialties": "Urology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -101,9 +101,9 @@
             "accounttimestamp": "24 Apr 2017 10:42:00",
             "email": "Jayne_Kuhic@sydney.com",
             "username": "Jayne",
-            "password": "456",
+            "feedid": "09",
             "specialties": "Cardiology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -113,9 +113,9 @@
             "accounttimestamp": "25 Apr 2017 12:34:05",
             "email": "Nikita@garfield.biz",
             "username": "Nikita",
-            "password": "789",
+            "feedid": "10",
             "specialties": "Nephrology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -125,9 +125,9 @@
             "accounttimestamp": "26 Apr 2017 1:12:30",
             "email": "Lew@alysha.tv",
             "username": "Lew",
-            "password": "657",
+            "feedid": "11",
             "specialties": "Gastroenterology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -137,9 +137,9 @@
             "accounttimestamp": "27 Apr 2017 3:23:55",
             "email": "Hayden@althea.biz",
             "username": "Hayden",
-            "password": "773",
+            "feedid": "12",
             "specialties": "Internal Medicine",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -149,9 +149,9 @@
             "accounttimestamp": "28 Apr 2017 4:56:35",
             "email": "Ravi@gmail.com",
             "username": "Ravi",
-            "password": "648",
+            "feedid": "13",
             "specialties": "Endocrionology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -161,9 +161,9 @@
             "accounttimestamp": "23 Apr 2017 8:42:35",
             "email": "Eliseo@gardner.biz",
             "username": "Eliseo",
-            "password": "123",
+            "feedid": "14",
             "specialties": "Gastroenterology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -173,9 +173,9 @@
             "accounttimestamp": "24 Apr 2017 10:42:00",
             "email": "Jayne_Kuhic@sydney.com",
             "username": "Jayne",
-            "password": "456",
+            "feedid": "15",
             "specialties": "Cardiology",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -185,9 +185,9 @@
             "accounttimestamp": "25 Apr 2017 12:34:05",
             "email": "Nikita@garfield.biz",
             "username": "Nikita",
-            "password": "789",
+            "feedid": "16",
             "specialties": "Internal Medicine",
-            "feeds": "last login details",
+            "lastlogin": "last login details",
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
@@ -195,6 +195,7 @@
     ],
     "swipetracker": [
         {
+            "swipetrackerid": "01",
             "userid": "01",
             "feedid": "01",
             "rightswipedpmid": "31859919 32132346",
@@ -203,6 +204,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "02",
             "userid": "02",
             "feedid": "02",
             "rightswipedpmid": "32384427 32294740",
@@ -211,6 +213,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "03",
             "userid": "03",
             "feedid": "03",
             "rightswipedpmid": "31826279 32118714",
@@ -219,6 +222,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "04",
             "userid": "04",
             "feedid": "04",
             "rightswipedpmid": "31834639 32151750",
@@ -227,6 +231,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "05",
             "userid": "05",
             "feedid": "05",
             "rightswipedpmid": "32118714 31859919",
@@ -235,6 +240,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "06",
             "userid": "06",
             "feedid": "06",
             "rightswipedpmid": "32151750 32209833",
@@ -243,6 +249,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "07",
             "userid": "07",
             "feedid": "07",
             "rightswipedpmid": "32209833 31821912",
@@ -251,6 +258,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "08",
             "userid": "08",
             "feedid": "08",
             "rightswipedpmid": "31821912 32151750",
@@ -259,6 +267,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "09",
             "userid": "09",
             "feedid": "09",
             "rightswipedpmid": "31834639",
@@ -267,6 +276,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "10",
             "userid": "10",
             "feedid": "10",
             "rightswipedpmid": "32118714",
@@ -275,6 +285,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "11",
             "userid": "11",
             "feedid": "11",
             "rightswipedpmid": "32151750",
@@ -283,6 +294,7 @@
             "rightswipedpercent": "50%"
         },
         {
+            "swipetrackerid": "12",
             "userid": "12",
             "feedid": "12",
             "rightswipedpmid": "32209833",
