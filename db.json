@@ -179,18 +179,6 @@
             "blocked": "no",
             "blockedreason": "fake",
             "blockedtimestamp": "no-timestamp"
-        },
-        {
-            "userid": 16,
-            "accounttimestamp": "25 Apr 2017 12:34:05",
-            "email": "Nikita@garfield.biz",
-            "username": "Nikita",
-            "feedid": "16",
-            "specialties": "Internal Medicine",
-            "lastlogin": "last login details",
-            "blocked": "no",
-            "blockedreason": "fake",
-            "blockedtimestamp": "no-timestamp"
         }
     ],
     "swipetracker": [
